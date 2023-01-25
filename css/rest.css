@@ -1,0 +1,9 @@
+*{margin:0;padding:0;}
+*{box-sizing: border-box;}
+ul,ol{list-style:none;}
+a{text-decoration:none;color:inherit;}
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:normal;}
+i,em,address{font-style:normal;}
+strong,b{font-weight:normal;}
+table{border-collapse:collapse;}
+img{max-width:100%;}

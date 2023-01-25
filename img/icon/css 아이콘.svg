@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.111" height="67.175" viewBox="0 0 48.111 67.175">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #555;
+      }
+    </style>
+  </defs>
+  <g id="css_아이콘" data-name="css 아이콘" transform="translate(0)">
+    <path id="패스_29" data-name="패스 29" class="cls-1" d="M650.745,77.841l4.959,49.645,19.1,4.959,19.316-4.74,4.74-49.864Zm36.2,40.9-12.28,3.3-12.28-3.433-.792-9.639,6.156.14.182,4.878,6.734,1.848,6.734-1.981.792-7.526h-14l-.528-6.074h14.657l.66-5.923H660.408l-.66-6.093h30.106Z" transform="translate(-650.745 -65.27)"/>
+    <rect id="사각형_3" data-name="사각형 3" class="cls-1" width="7.245" height="2.582" transform="translate(10.273)"/>
+    <path id="패스_35" data-name="패스 35" class="cls-1" d="M773.332,2.375h4.094V0h-8.358V2.375h.011l4.331,4.331h-4.342V9.08h8.595V6.706Z" transform="translate(-749.959 0)"/>
+    <path id="패스_36" data-name="패스 36" class="cls-1" d="M836.083,2.375h4.094V0h-8.358V2.375h.011l4.331,4.331h-4.342V9.08h8.595V6.706Z" transform="translate(-802.576 0)"/>
+    <rect id="사각형_4" data-name="사각형 4" class="cls-1" width="7.245" height="2.582" transform="translate(10.273 6.601)"/>
+    <rect id="사각형_5" data-name="사각형 5" class="cls-1" width="2.922" height="7.245" transform="translate(10.273 0.14)"/>
+  </g>
+</svg>

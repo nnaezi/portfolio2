@@ -1,0 +1,15 @@
+<svg id="js_아이콘" data-name="js 아이콘" xmlns="http://www.w3.org/2000/svg" width="48.044" height="67.082" viewBox="0 0 48.044 67.082">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #555;
+      }
+    </style>
+  </defs>
+  <path id="패스_30" data-name="패스 30" class="cls-1" d="M0,77.841l4.952,49.576,19.07,4.952,19.289-4.733,4.733-49.8Zm38.074,23-1.836,18.927-12.6,3.556L11,119.658l-1.032-9.75,6.424-.115.344,5.047,6.9,1.835,6.524-1.721.918-8.03H9.971l1.721-18.7H36.354l1.721,9.636H31.651l-.344-3.441-14.453.229-.344,6.08Z" transform="translate(-0.001 -65.287)"/>
+  <rect id="사각형_6" data-name="사각형 6" class="cls-1" width="3.038" height="9.041" transform="translate(19.267)"/>
+  <rect id="사각형_7" data-name="사각형 7" class="cls-1" width="7.341" height="3.038" transform="translate(14.963 6.227)"/>
+  <rect id="사각형_8" data-name="사각형 8" class="cls-1" width="7.522" height="3.249" transform="translate(25.465)"/>
+  <rect id="사각형_9" data-name="사각형 9" class="cls-1" width="7.522" height="3.249" transform="translate(25.512 6.121)"/>
+  <rect id="사각형_10" data-name="사각형 10" class="cls-1" width="3.249" height="7.522" transform="translate(25.464 3.264) rotate(-45)"/>
+</svg>

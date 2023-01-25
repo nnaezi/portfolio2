@@ -1,0 +1,24 @@
+@font-face{
+    font-family:'레터체';
+    src:url(../font/LetterGothicStd.otf);
+}
+@font-face{
+    font-family: '조선굵은체';
+    src:url(../font/ChosunKg.TTF)
+}
+@font-face{
+    font-family: '조선굴림체';
+    src:url(../font/ChosunGu.TTF)
+}
+@font-face{
+    font-family: '배너세리프체';
+    src:url(../font/Baskerville.ttc)
+}
+@font-face{
+    font-family: '배너산세리프체';
+    src:url(../font/Geneva.ttf)
+}
+@font-face{
+    font-family: '메인체';
+    src:url(../font/CooperBlackStd.otf)
+}
